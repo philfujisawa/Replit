@@ -1,0 +1,7 @@
+tFood = input("Please input a food > ")
+tPlant = input("Now a plant name > ")
+tCook = input("How you will cook it? ")
+tBurn = input("word to describe burned food? ")
+tItem = input("A household item? ")
+print()
+print(tCook, tFood, "with", tBurn, tPlant, "on a bed of", tItem)
